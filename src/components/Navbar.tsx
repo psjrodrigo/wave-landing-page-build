@@ -18,8 +18,9 @@ const Navbar = ({ onOpenSignup }: NavbarProps) => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-lg border-b border-border">
       <div className="container px-4 flex items-center justify-between h-16">
-        <a href="#" className="text-xl font-heading font-bold">
-          <span className="text-primary">Wave</span> Digital
+        <a href="#" className="flex items-center gap-2 text-xl font-heading font-bold">
+          <img src="/favicon.png" alt="Wave Digital Solutions" className="h-8 w-8" />
+          <span><span className="text-primary">Wave</span> Digital</span>
         </a>
 
         {/* Desktop */}
