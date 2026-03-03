@@ -25,7 +25,7 @@ const PrivacyPolicy = () => {
           <p>Utilizamos cookies e pixels de rastreamento (incluindo o Pixel do Facebook/Meta) para medir a efetividade de campanhas publicitárias e melhorar a experiência do usuário. Você pode gerenciar as preferências de cookies no seu navegador.</p>
 
           <h2 className="text-xl font-heading font-semibold text-foreground">5. Seus direitos (LGPD)</h2>
-          <p>Você tem direito a: acessar seus dados pessoais; solicitar correção ou exclusão; revogar consentimento a qualquer momento; solicitar portabilidade dos dados. Para exercer seus direitos, entre em contato pelo e-mail contato@wavedigital.com.br.</p>
+          <p>Você tem direito a: acessar seus dados pessoais; solicitar correção ou exclusão; revogar consentimento a qualquer momento; solicitar portabilidade dos dados. Para exercer seus direitos, entre em contato pelo e-mail contato@wavesolutionsdigital.com.</p>
 
           <h2 className="text-xl font-heading font-semibold text-foreground">6. Retenção de dados</h2>
           <p>Mantemos seus dados pelo tempo necessário para cumprir as finalidades descritas nesta política ou conforme exigido por lei.</p>
@@ -34,7 +34,7 @@ const PrivacyPolicy = () => {
           <p>Adotamos medidas técnicas e organizacionais adequadas para proteger seus dados pessoais contra acessos não autorizados, perda ou destruição.</p>
 
           <h2 className="text-xl font-heading font-semibold text-foreground">8. Contato</h2>
-          <p>Em caso de dúvidas sobre esta política, entre em contato: contato@wavedigital.com.br</p>
+          <p>Em caso de dúvidas sobre esta política, entre em contato: contato@wavesolutionsdigital.com</p>
         </div>
       </div>
     </div>

@@ -34,7 +34,7 @@ const TermsOfUse = () => {
           <p>Reservamo-nos o direito de alterar estes termos a qualquer momento. Alterações serão publicadas nesta página com a data de atualização.</p>
 
           <h2 className="text-xl font-heading font-semibold text-foreground">8. Contato</h2>
-          <p>Dúvidas sobre estes termos: contato@wavedigital.com.br</p>
+          <p>Dúvidas sobre estes termos: contato@wavesolutionsdigital.com</p>
         </div>
       </div>
     </div>
