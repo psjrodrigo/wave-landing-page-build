@@ -26,7 +26,7 @@ const Footer = () => {
             <h4 className="font-heading font-semibold mb-3">Contato</h4>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>contato@wavesolutionsdigital.com</li>
-              <li>(31) 99270-2936</li>
+              <li>(31) 99970-2936</li>
             </ul>
           </div>
         </div>
