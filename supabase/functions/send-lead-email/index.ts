@@ -6,7 +6,7 @@ const corsHeaders = {
     "authorization, x-client-info, apikey, content-type",
 };
 
-const RECIPIENT_EMAIL = "contato@wavedigitalsolutions.com.br";
+const RECIPIENT_EMAIL = "contato@wavesolutionsdigital.com";
 
 interface LeadData {
   name: string;
