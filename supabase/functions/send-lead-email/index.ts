@@ -101,7 +101,7 @@ Enviado automaticamente pelo formulário do site.
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        from: "Wave Digital <onboarding@resend.dev>",
+        from: "Wave Digital <contato@wavesolutionsdigital.com>",
         to: [RECIPIENT_EMAIL],
         subject: "Novo Lead do Site",
         text: emailBody,
